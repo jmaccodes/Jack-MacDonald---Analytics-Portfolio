@@ -13,7 +13,7 @@ This project analyzes customer credit card data to identify key variables that i
 - Insights into significant predictors of credit default risk.
   Recommendations for risk mitigation strategies.
 
-# [Project 2: Data Maangement SQL - Final Project](https://github.com/jmaccodes/Data-Management---Final-Project-SQL-)
+# [Project 2: Data Mangement SQL - Final Project](https://github.com/jmaccodes/Data-Management---Final-Project-SQL-)
 
 This project analyzes a video rental store database to extract insights on film inventory, customer behavior, rental transactions, and pricing strategies. It uses SQL queries to support business decisions related to marketing campaigns, inventory management, and revenue optimization.
 
