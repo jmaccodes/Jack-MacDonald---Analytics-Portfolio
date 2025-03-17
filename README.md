@@ -13,13 +13,9 @@ This project analyzes customer credit card data to identify key variables that i
 - Insights into significant predictors of credit default risk.
   Recommendations for risk mitigation strategies.
 
-  # [Project 1: Data Maangement SQL - Final Project]([https://github.com/jmaccodes/Predictive-Modeling---Python](https://github.com/jmaccodes/Data-Management---Final-Project-SQL-))
-
-# Video Rental Store Analytics - SQL Queries
+# [Project 2: Data Maangement SQL - Final Project](https://github.com/jmaccodes/Data-Management---Final-Project-SQL-)
 
 This project analyzes a video rental store database to extract insights on film inventory, customer behavior, rental transactions, and pricing strategies. It uses SQL queries to support business decisions related to marketing campaigns, inventory management, and revenue optimization.
-
-## Project Overview
 
 - Objective: Analyze rental patterns, film popularity, and customer behavior using SQL queries.  
 - Dataset: A relational database containing tables for films, rentals, customers, actors, and transactions.  
