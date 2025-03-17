@@ -1,4 +1,4 @@
-# Jack's Portfolio
+# Analytics Projects
 
 # [Project 1: Credit Card Default Predictive Model](https://github.com/jmaccodes/Predictive-Modeling---Python)
 
