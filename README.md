@@ -28,23 +28,23 @@ This project analyzes a video rental store database to extract insights on film 
   - Identification of top-performing films and actors.  
   - Evaluation of pricing structures and customer engagement.
 
- # [Project 3: API Pull Request - Crunchbase API](https://github.com/jmaccodes/API-Data-Extract)
+# [Project 3: API Pull Request - Crunchbase API](https://github.com/jmaccodes/API-Data-Extract)
 
  This project utilizes Python to build functions to pull private company financial information from the Crunchbase API Trial Key
 
- - Objective: Source financial data on private companies.
- - Methodology:
+- Objective: Source financial data on private companies.
+- Methodology:
    
-   API Request & Data Retrieval (GetOrgCards)
-   - API Integration, HTTP GET Requests
-   - The function constructs an API URL to query Crunchbase's database for organization-related data.
-   - Uses the requests library to send a GET request with an API key in the headers.
-   - Handles HTTP responses, checking if the request was successful (status_code == 200).
-   - Extracts JSON data from the response and normalizes it using Pandas' json_normalize().
+  API Request & Data Retrieval (GetOrgCards)
+  - API Integration, HTTP GET Requests
+  - The function constructs an API URL to query Crunchbase's database for organization-related data.
+  - Uses the requests library to send a GET request with an API key in the headers.
+  - Handles HTTP responses, checking if the request was successful (status_code == 200).
+  - Extracts JSON data from the response and normalizes it using Pandas' json_normalize().
 
-   JSON Parsing & Data Structuring (parse_api_json)
-   - Parses the JSON response into a structured Pandas DataFrame.
-   - Extracts key fields from the JSON response (company name, funding, LinkedIn, etc.).
-   - Handles missing data using .get() with default values.
+ JSON Parsing & Data Structuring (parse_api_json)
+  - Parses the JSON response into a structured Pandas DataFrame.
+  - Extracts key fields from the JSON response (company name, funding, LinkedIn, etc.).
+  - Handles missing data using .get() with default values.
 
 
