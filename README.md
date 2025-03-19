@@ -35,16 +35,19 @@ This project analyzes a video rental store database to extract insights on film 
 - Objective: Source financial data on private companies.
 - Methodology:
    
-  API Request & Data Retrieval (GetOrgCards)
+API Request & Data Retrieval (GetOrgCards)
   - API Integration, HTTP GET Requests
   - The function constructs an API URL to query Crunchbase's database for organization-related data.
   - Uses the requests library to send a GET request with an API key in the headers.
   - Handles HTTP responses, checking if the request was successful (status_code == 200).
   - Extracts JSON data from the response and normalizes it using Pandas' json_normalize().
 
- JSON Parsing & Data Structuring (parse_api_json)
+JSON Parsing & Data Structuring (parse_api_json)
   - Parses the JSON response into a structured Pandas DataFrame.
   - Extracts key fields from the JSON response (company name, funding, LinkedIn, etc.).
   - Handles missing data using .get() with default values.
 
+# [Project 4: Streamlit - Ebay Data Visualization](https://github.com/jmaccodes/Streamlit_Data_Viz)
+
+This interactive dashboard analyzes and visualizes eBay product data, allowing users to explore pricing trends, brand distribution, and product conditions. The app is built with Streamlit, Pandas, and Plotly, offering a dynamic and user-friendly interface for filtering and analyzing eBay listings.
 
