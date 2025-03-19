@@ -9,9 +9,6 @@ This project analyzes customer credit card data to identify key variables that i
 - Dataset: Customer credit card data containing demographic, financial, and behavioral variables.
 - Methodology: Logistic regression for binary classification and statistical interpretation.
   Categorical decision tree for interpretable machine learning and visualization of decision paths.
-- Key Deliverables: Trained logistic regression and decision tree models.
-- Insights into significant predictors of credit default risk.
-  Recommendations for risk mitigation strategies.
 
 # [Project 2: Data Mangement SQL - Final Project](https://github.com/jmaccodes/Data-Management---Final-Project-SQL-)
 
@@ -23,10 +20,6 @@ This project analyzes a video rental store database to extract insights on film 
   - SQL queries for data retrieval, filtering, and aggregation.  
   - Joins to connect multiple tables and extract business insights.  
   - Case statements and categorization for enhanced analysis.  
-- Key Deliverables:  
-  - Insights into film inventory and rental trends.  
-  - Identification of top-performing films and actors.  
-  - Evaluation of pricing structures and customer engagement.
 
 # [Project 3: API Pull Request - Crunchbase API](https://github.com/jmaccodes/API-Data-Extract)
 
