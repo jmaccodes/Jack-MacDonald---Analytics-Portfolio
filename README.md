@@ -10,7 +10,7 @@ This project analyzes customer credit card data to identify key variables that i
 - Methodology: Logistic regression for binary classification and statistical interpretation.
   Categorical decision tree for interpretable machine learning and visualization of decision paths.
 
-# [Project 2: Rose Video SQL](https://github.com/jmaccodes/Data-Management---Final-Project-SQL-)
+# [Project 2: Rental Store SQL](https://github.com/jmaccodes/Data-Management---Final-Project-SQL-)
 
 This project analyzes a video rental store database to extract insights on film inventory, customer behavior, rental transactions, and pricing strategies. It uses SQL queries to support business decisions related to marketing campaigns, inventory management, and revenue optimization.
 
